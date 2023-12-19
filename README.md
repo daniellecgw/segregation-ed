@@ -10,7 +10,7 @@ All assignments will be turned in on canvas.
 
 ## Helpful Links
 
-[Office hour sign ups]{https://daniellecgw.github.io/teaching/segregation-ed}
+[Office hour sign ups](https://daniellecgw.github.io/teaching/segregation-ed)
 
 Class canvas page
 
