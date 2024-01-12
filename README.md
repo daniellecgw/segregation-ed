@@ -6,7 +6,7 @@ The class syllabus is located in the main folder of this directory. This is your
 
 Lecture slides and assignments are located in the respective folders. 
 
-All assignments will be turned in on canvas.
+All assignments will be turned in on [canvas](https://canvas.harvard.edu/courses/126957).
 
 ## Helpful Links
 
