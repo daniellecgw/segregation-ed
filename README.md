@@ -17,3 +17,7 @@ All assignments will be turned in on [canvas](https://canvas.harvard.edu/courses
 [Class canvas page](https://canvas.harvard.edu/courses/126957)
 
 [Stata / R minicourse canvas page](https://canvas.harvard.edu/courses/19323)
+
+## Fun Diversions
+
+[Spurious Correlations by Tyler Vigen](https://tylervigen.com/spurious-correlations) also see bonus project: [Spurious Scholar](https://tylervigen.com/spurious-scholar)
