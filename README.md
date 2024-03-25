@@ -20,4 +20,8 @@ All assignments will be turned in on [canvas](https://canvas.harvard.edu/courses
 
 ## Fun Diversions
 
-[Spurious Correlations by Tyler Vigen](https://tylervigen.com/spurious-correlations) also see bonus project: [Spurious Scholar](https://tylervigen.com/spurious-scholar)
+[Spurious Correlations by Tyler Vigen](https://tylervigen.com/spurious-correlations) 
+
+also see bonus project: [Spurious Scholar](https://tylervigen.com/spurious-scholar)
+
+[Animated Causal Effect Plots by Nick Huntington-Klein](https://nickchk.com/causalgraphs.html)
